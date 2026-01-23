@@ -32,7 +32,7 @@
         .tech {
             background: #f5f5f5;
             padding: 15px;
-            border-radius: 8px;
+            border-radius: 10px;
             margin: 20px 0;
         }
         a {

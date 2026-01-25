@@ -24,7 +24,7 @@
         }
         h1 {
             color: #333;
-        }
+        }/*hey*/
         p {
             color: #666;
             line-height: 1.6;
